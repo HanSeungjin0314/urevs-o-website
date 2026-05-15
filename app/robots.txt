@@ -1,10 +1,6 @@
-cd C:\dev\urevs-o-website
-
-@'
-User-Agent: *
+﻿User-Agent: *
 Allow: /
 
 Disallow: /admin/
 
-Sitemap: https://your-domain.com/sitemap.xml
-'@ | Set-Content -Encoding utf8 .\app\robots.txt
+Sitemap: https://urevs-o-website.vercel.app/sitemap.xml
