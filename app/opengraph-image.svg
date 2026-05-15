@@ -1,0 +1,9 @@
+﻿<svg width="900" height="650" viewBox="0 0 900 650" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="650" rx="48" fill="#EFF6FF"/>
+  <rect x="160" y="120" width="580" height="390" rx="36" fill="white" stroke="#BFDBFE" stroke-width="6"/>
+  <rect x="220" y="180" width="460" height="270" rx="28" fill="#DBEAFE"/>
+  <rect x="285" y="245" width="330" height="140" rx="22" fill="white" stroke="#2563EB" stroke-width="5"/>
+  <text x="450" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="54" font-weight="800" fill="#1D4ED8">UREVS O</text>
+  <text x="450" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="600" fill="#475569">Wound Dressing</text>
+  <text x="450" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#64748B">Product image placeholder</text>
+</svg>
