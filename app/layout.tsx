@@ -31,6 +31,9 @@ export const metadata: Metadata = {
     description:
       "상처 부위 보호와 드레싱 관리를 위한 창상피복재. 국내 구매 및 해외 총판 문의 접수.",
   },  verification: {
+    other: {
+      "naver-site-verification": "4d0364c32acd396b91a6067ffc18b319bde75ba0",
+    },
     google: "GiOKwKymKBbLv-hmZAxTk2lV2nt8ouCxFUjxew01S-w",
   },
 
@@ -51,4 +54,5 @@ export default function RootLayout({
     </html>
   );
 }
+
 
